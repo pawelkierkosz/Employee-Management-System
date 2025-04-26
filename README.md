@@ -21,20 +21,12 @@ This project is a console-based Employee Management System built in C++. It prov
 ### Requirements
 - C++ compiler (e.g., MinGW, Visual Studio)
 
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/employee-management-system.git
-```
-2. Navigate to the project directory:
-```bash
-cd employee-management-system
-```
-3. Compile the program:
+### Compilation
+1. Compile the program:
 ```bash
 g++ main.cpp -o EmployeeManagementSystem
 ```
-4. Run the executable:
+2. Run the executable:
 ```bash
 ./EmployeeManagementSystem.exe
 ```
