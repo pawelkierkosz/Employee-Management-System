@@ -28,7 +28,7 @@ g++ main.cpp -o EmployeeManagementSystem
 ```
 2. Run the executable:
 ```bash
-./EmployeeManagementSystem.exe
+./EmployeeManagementSystem
 ```
 
 ## Usage
