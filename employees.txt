@@ -1,0 +1,17 @@
+ID: 2367, First Name: Anna, Second Name: Nowak, Designation: SDEII, Age: 25, Address: Warsaw, Phone Number: 512398765, Years of Experience: 3, CTC: 650000
+ID: 7895, First Name: Jan, Second Name: Kowalski, Designation: SeniorSDE, Age: 30, Address: Gdansk, Phone Number: 503287654, Years of Experience: 7, CTC: 850000
+ID: 1245, First Name: Marta, Second Name: Wisniewska, Designation: SDE, Age: 28, Address: Krakow, Phone Number: 504123789, Years of Experience: 5, CTC: 720000
+ID: 3754, First Name: Andrzej, Second Name: Zielinski, Designation: SeniorSDE, Age: 27, Address: Wroclaw, Phone Number: 506876543, Years of Experience: 4, CTC: 550000
+ID: 6219, First Name: Katarzyna, Second Name: Krawczyk, Designation: SDEII, Age: 26, Address: Lodz, Phone Number: 509654321, Years of Experience: 4, CTC: 600000
+ID: 4823, First Name: Piotr, Second Name: Szymanski, Designation: SDE, Age: 29, Address: Szczecin, Phone Number: 501987654, Years of Experience: 6, CTC: 780000
+ID: 9156, First Name: Agnieszka, Second Name: Lewandowska, Designation: SeniorSDE, Age: 31, Address: Lublin, Phone Number: 508765432, Years of Experience: 8, CTC: 920000
+ID: 3478, First Name: Damian, Second Name: Dabrowski, Designation: SDEII, Age: 29, Address: Katowice, Phone Number: 511234567, Years of Experience: 5, CTC: 670000
+ID: 5874, First Name: Aleksandra, Second Name: Pawlak, Designation: SDE, Age: 32, Address: Bydgoszcz, Phone Number: 502345678, Years of Experience: 9, CTC: 950000
+ID: 2568, First Name: Lukasz, Second Name: Michalski, Designation: SDEII, Age: 27, Address: Rzeszow, Phone Number: 505432109, Years of Experience: 4, CTC: 600000
+ID: 6987, First Name: Monika, Second Name: Nowakowska, Designation: SeniorSDE, Age: 28, Address: Opole, Phone Number: 507654321, Years of Experience: 5, CTC: 720000
+ID: 1396, First Name: Krzysztof, Second Name: Wojcik, Designation: SDE, Age: 26, Address: Kielce, Phone Number: 508765432, Years of Experience: 4, CTC: 580000
+ID: 7246, First Name: Iwona, Second Name: Kowalczyk, Designation: SDEII, Age: 30, Address: Szczecin, Phone Number: 509876543, Years of Experience: 7, CTC: 850000
+ID: 5812, First Name: Marek, Second Name: Zajac, Designation: SeniorSDE, Age: 29, Address: Gdynia, Phone Number: 506543210, Years of Experience: 6, CTC: 750000
+ID: 9032, First Name: Ewa, Second Name: Adamczyk, Designation: SDE, Age: 33, Address: Torun, Phone Number: 503210987, Years of Experience: 10, CTC: 980000
+ID: 9514, First Name: Pawel, Second Name: Kierkosz, Designation: SeniorSDE, Age: 20, Address: Poznan, Phone Number: 505847600, Experience: 3, CTC: 500000
+ID: 2506, First Name: Kasia, Second Name: Kowalska, Designation: SDE, Age: 20, Address: Wroclaw, Phone Number: 504654127, Years of Experience: 1, CTC: 200000
